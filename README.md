@@ -19,4 +19,4 @@ The dataset can be found at the kaggle link below. This includes trade data by c
 
 * [Kaggle link](https://www.kaggle.com/sagarkandpal/effectsofcovid19ontradeat14july2021)
 * [CSV file](https://github.com/patrickjhaggerty/DATA_6505_Final/blob/main/effects-of-covid-19-on-trade-at-14-July-2021-provisional.csv)
-* [Final Project Workbook]()
+* [Final Project Workbook](https://github.com/patrickjhaggerty/DATA_6505_Final/blob/main/Final_Project_Code_Workbook.ipynb)
